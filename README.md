@@ -40,7 +40,7 @@ We define the Fill number we want to run in toRun_corBSRT2018.ipynb , in this sc
 *  the emittances can be corrected-> correct BSRT by multiplying the emittances by a cor. factor. This is important for the 2018 BSRT emittances which disagree with the ones expected from luminosity
 *  then the luminosity model is being calculated for 5 cases: "old model", "coupling", "coupling&noise", "coupling&boff", "coupling&noise&boff"
 
-To plot use: To plot use: plot_lumimodel_frompickle_allModels_CouplNoiseBoff.ipynb
+To plot use: plot_lumimodel_frompickle_allModels_CouplNoiseBoff.ipynb
 
 *at Flat Bottom*
 Use the Files: runModel_CouplNoiseBoff_FB.ipynb, it calls the IBSmodel_GY.ipynb and the noiseINmodel_FB.ipynb \
