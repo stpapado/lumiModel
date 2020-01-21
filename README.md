@@ -68,6 +68,7 @@ https://cds.cern.ch/record/2304603 \
 https://indico.cern.ch/event/806869/contributions/3358585/attachments/1816649/2969341/Emittance_BU_due_to_BO.pdf \
 https://arxiv.org/pdf/0911.5627v1.pdf \
 *model improvement and run2 results* \
+use this -> https://indico.cern.ch/event/857354/contributions/3608712/attachments/1934711/3205784/upLumiModel_LBOC_29oct19_stef.pdf \
 https://indico.cern.ch/event/844767/contributions/3547587/attachments/1905233/3146376/upLumiModel_WP2_10Sep19_stef.pdf \
 https://indico.cern.ch/event/813285/contributions/3406120/attachments/1856807/3050113/LumiModel_LumiDays19_stef.pdf \
 
