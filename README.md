@@ -59,6 +59,7 @@ For a 2018 Fill, someone needs to correct the BSRT emittances and then run the s
 https://gitlab.cern.ch/antoniou/LHC-ibs-model \
 http://accelconf.web.cern.ch/AccelConf/IPAC2015/papers/tupty020.pdf \
 https://indico.cern.ch/event/578001/contributions/2366376/attachments/1388316/2222614/Evian2016_Lumi_F.Antoniou.pdf \
+https://indico.cern.ch/event/806869/contributions/3358587/attachments/1816712/2969800/BeamBeam_Mar19_stef.pdf
 *coupling* \
 https://indico.cern.ch/event/746812/contributions/3087407/attachments/1693400/2725137/couplingMeasurementsJuly2018.pdf \
 *noise* \
