@@ -46,10 +46,10 @@ To plot use: plot_lumimodel_frompickle_allModels_CouplNoiseBoff.ipynb
 Use the Files: runModel_CouplNoiseBoff_FB.ipynb, it calls the IBSmodel_GY.ipynb and the noiseINmodel_FB.ipynb \
 To plot use: plot_lumimodel_frompickle_allModels_CouplNoiseBoff_FB.ipynb
 
-All these scripts can be also found at : /eos/project/l/lhc-lumimod/LuminosityFollowUp/runModel_forFill
+All these scripts can be also found at : /eos/project/l/lhc-lumimod/LuminosityFollowUp/updatedModel
 
 ***
-**The updated model was run for all Fills of 2017 and some 2018 (with corrected BSRT emittances) and the saved pkl are in eos, check /eos/project/l/lhc-lumimod/LuminosityFollowUp/runModel_forFill/saved_pkl** \
+**The updated model was run for all Fills of 2017 and some 2018 (with corrected BSRT emittances) and the saved pkl are in eos, check /eos/project/l/lhc-lumimod/LuminosityFollowUp/updatedModel/saved_pkl** \
 For a 2018 Fill, someone needs to correct the BSRT emittances and then run the script. It has been done already for some Fills.
 
 ***
