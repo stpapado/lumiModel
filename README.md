@@ -42,7 +42,7 @@ We define the Fill number we want to run in toRun_corBSRT2018.ipynb , in this sc
 
 To plot use: plot_lumimodel_frompickle_allModels_CouplNoiseBoff.ipynb
 
-*at Flat Bottom*
+**at Flat Bottom**
 Use the Files: runModel_CouplNoiseBoff_FB.ipynb, it calls the IBSmodel_GY.ipynb and the noiseINmodel_FB.ipynb \
 To plot use: plot_lumimodel_frompickle_allModels_CouplNoiseBoff_FB.ipynb
 
