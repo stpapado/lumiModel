@@ -25,14 +25,14 @@ Including b*, luminosity leveling, x-ing angle anti-leveling options.
 ***
 **Run the Model** 
 In order to run the Model for a specific Fill we need we need to have access to the eos path were the pkl of this Fill are saved and to the scripts: 
-* toRun_corBSRT2018.ipynb -> run only for the model cases where we take emittance from model, i.e. 'IBSLosses' and 'IBSBOff'
+* runLumiModel_manyFills.ipynb -> run only for the model cases where we take emittance from model, i.e. 'IBSLosses' and 'IBSBOff'
 * emit_model_elastic_scattering.ipynb 
 * IBSmodel_GY.ipynb 
 * noiseINmodel_new.ipynb 
 * LumiModel_CouplNoiseBoff_new.ipynb
 (Stefania used in swan)
 
-We define the Fill number we want to run in toRun_corBSRT2018.ipynb , in this script:
+We define the Fill number we want to run in runLumiModel_manyFills.ipynb , in this script:
 *  the parameters used for the calculation of coupling, noise, burn-off are defined
 *  the functions used to calculate the effects in the LumiModel are called (and run)
 *  some other parameters are deifned- like the energy, the voltage and the synchrtron radiation damping time
